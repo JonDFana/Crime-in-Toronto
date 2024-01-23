@@ -1,2 +1,2 @@
-# Crime-in-Toronto
-An analysis of the of how gun-related violence has evolved over the years in the GTA.
+# TORONTO MIGHT NOT BE AS SAFE AS YOU THOUGHT
+Toronto is considered one of the safest cities in America and the 24th safest in the world behind metropolises like Tokyo, London, Paris and Seoul. Yet, historicaly, the crime rate reached alarming peaks that attracted wolds attention, specially in terms of gun violence. That is why I take the chance to explore this aspect of the city and provide the audience with a engaging look at the evolution armed crime. The dataset on hand for the analysis is part of the Toronto Police public database and can be found here. With that said, let's jump into it!
